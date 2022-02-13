@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1580017778 source:c:\users\asus\onedrive\dokumen\codeblock\uasiih ini\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<iomanip>
+
